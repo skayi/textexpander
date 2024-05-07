@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/npm/l/oclif.svg)](https://github.com/oclif/oclif/blob/main/package.json)
 <br><br>
-Text expander
+Text expander preview.
 <br>
 ![avatar](https://github.com/skayi/textexpander/blob/main/textexpander.gif)
 
