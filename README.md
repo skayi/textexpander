@@ -4,6 +4,7 @@
 <br><br>
 Text expander preview.
 <br>
+<br>
 ![avatar](https://github.com/skayi/textexpander/blob/main/textexpander.gif)
 
 <br />
@@ -14,16 +15,13 @@ Text expander preview.
 - 这是一个文本溢出时自动展示省略号以及展开按钮的纯属 CSS 组件 —— Web Components。 通过 width 属性可控制整体宽度，省略时继承父级宽度。line-height 属性控制文本行高，默认值为 22px。line-clamp 属性用来控制文本换行数的最大值，默认值为 1。想默认展开显示全部内容，可设置 expanded="true"。
 
 <br />
-`Chrome: 105+` `Edge: 105+` `Firefox: 110+`
-
-<br />
 
 # ✨ Features
 
-1、Automatically omit text based on width, and display expand button when text overflows
-2、Custom expand and collapse button
-3、Custom text width, line height and line clamp
-4、Custom text default expansion
+1、Automatically omit text based on width, and display expand button when text overflows<br />
+2、Custom expand and collapse button<br />
+3、Custom text width, line height and line clamp<br />
+4、Custom text default expansion<br />
 
 <br />
 
