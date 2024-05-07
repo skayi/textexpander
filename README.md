@@ -3,9 +3,8 @@
 [![License](https://img.shields.io/npm/l/oclif.svg)](https://github.com/oclif/oclif/blob/main/package.json)
 <br><br>
 Text expander
-
-![avatar](https://github.com/skayi/textexpander/edit/main/textexpander.gif)
 <br>
+![avatar](https://github.com/skayi/textexpander/blob/main/textexpander.gif)
 
 <br />
 
